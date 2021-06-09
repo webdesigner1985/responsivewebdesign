@@ -61,13 +61,13 @@ table {
 }
 
 h1{
-  font-size:28.8px;
+  font-size:1.8rem;
   font-family: 'Merriweather', serif;
 }
 
 h2{
   font-family: 'Merriweather', Arial;
-  font-size:25.6px;
+  font-size:1.6rem;
   color: #e5127d;
 }
 
@@ -76,16 +76,20 @@ p{
 }
 
 body{
-  font-size:18px;
-  line-height:32px;
+  font-size:1.125rem;
+  line-height:2rem;
   color:#333;
 }
 
 .main-header p{
-  font-size:18px;
-  letter-spacing:2px;
+  font-size:1.125rem;
+  letter-spacing:0.125rem;
 }
 
 .header, p{
   color:#8c8e9b;
+}
+
+.picture{
+  width:100%;
 }
